@@ -7,3 +7,5 @@ Whatsapp -> Twilio -> NgROK -> Flask App -> MarketStack
 
 The API used are MarketStack and Twilio ( Beginner Friendly APIs) and the BackEnd interface used is Python.
 
+![](Pictures/Image1.jpg)
+
